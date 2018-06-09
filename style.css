@@ -1,0 +1,42 @@
+/* CA02 Website Style */
+
+/* Main containers */
+body {font:83% tahoma,verdana,sans-serif; color:#333; background-color:#e4e4e4;}
+
+/* HTML Tags */
+a {text-decoration:none; font-weight:500; color:#ff8726;}
+a:hover{color:e87e04; text-decoration:underline;}
+
+/* Classes */
+.mainmenu {position:fixed; top:0; z-index:9999; font-size:1.5em; line-height:1.9em; color:#555; border-bottom:5px solid #ff8726;}
+.menulink {background-color:#2a7a9a; color:#fff; display:block; width:192px; float:left; text-align:center; margin:0px 0px 0px 0px;}
+.menuborder{border-right:1px solid #fff;}
+.activepage{background-color:#226580; color:#fff;}
+.mediawide {border-top:2px solid #fff; border-bottom:2px solid #fff; margin-bottom:20px;}
+.media_pg4 {border-top:1px solid #795548; border-bottom:1px solid #795548; margin-bottom:20px;}
+.homecont_intro{background:#fff; padding:10px 10px 5px; height:200px; margin-bottom:20px;}
+.homecont_nest1{height:500px; margin-bottom:10px;}
+.hc_left{background-color:#fff; height:500px; margin-bottom:20px; padding:10px 10px 5px;}
+.hc_center{background-color:#fff; height:500px; margin-bottom:20px; padding:10px 10px 5px;}
+.hc_right{background-color:#fff; height:500px; margin-bottom:20px; padding:10px 10px 5px;}
+.pg2_nest{height:295px; margin-bottom:20px;}
+.p2_cont{background-color:#fff; height:295px; margin-bottom:20px; padding:10px 10px 0px;}
+.pg3_intro{background:#fff; padding:10px 10px 5px; height:200px; margin-bottom:20px;}
+.pg3_nest{height:450px; margin-bottom:20px;}
+.pg3_left{background-color:#fff; height:450px; padding:10px 10px 5px; margin-bottom:20px;}
+.pg3_last{background:#fff; padding:10px 10px 5px; height:125px; margin-bottom:20px;}
+.left {float:left; width:49%; border-right:2px solid #fff; border-left:2px solid #fff;}
+.right {float:right; width:49%; border-right:2px solid #fff; border-left:2px solid #fff;}
+.pg4_nest{height:320px; margin-bottom:20px;}
+.pg4_right{background-color:#795548; color:#ddd; height:310px; padding:10px 10px 5px;}
+.pg4_cont{background-color:#795548; color:#ddd; padding:10px 10px 5px; height:100px; margin-bottom:50px;}
+.about_media {border-top:2px solid #fff; border-bottom:2px solid #fff; margin-top:100px;}
+.about_nest{height:220px; margin-top:100px;}
+.about_cont{background-color:#fff; height:210px; margin-top:100px; padding:10px 10px 0px;}
+.hide {display:none;}
+
+
+
+
+
+
